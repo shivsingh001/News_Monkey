@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Chelsey Dulaney, Jason Zweig, Charley Grant, Hannah Miao, Quentin Webb, Caitlin McCabe, Anna Hirtenstein, Patricia Kowsmann",
+      "title": "Stock Market News Today: Dow Drops 100 Points; Currencies Swing as Fed Rate Hike Prompts Others to Move - The Wall Street Journal",
+      "description": "Follow The Wall Street Journal’s full markets coverage, a day after the Federal Reserve raised interest rates again.",
+      "url": "https://www.wsj.com/livecoverage/stock-market-news-today-09-22-2022",
+      "urlToImage": "https://images.wsj.net/im-589547/social",
+      "publishedAt": "2022-09-22T14:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Eric Garcia",
+      "title": "203 Republicans try to vote down bill to make it harder to overthrow election - The Independent",
+      "description": "None of the Republicans who voted for the bill will return to Congress in January",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/house-vote-electoral-count-act-b2172546.html",
+      "urlToImage": "https://static.independent.co.uk/2022/09/21/22/GettyImages-1402699316.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-09-22T13:44:33Z",
+      "content": "All but 11 Republicans voted down a measure in the House of Representatives to reform the Electoral Count Act to make sure that the presidential election results cannot be overthrown. \r\nRepublican Re… [+2278 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Celtics' Ime Udoka facing suspension for 'improper, consensual' relationship with staff member, per reports - CBS Sports",
+      "description": "Assistant coach Joe Mazzulla will likely be at the helm for the 2022-23 season",
+      "url": "https://www.cbssports.com/nba/news/celtics-ime-udoka-facing-season-long-suspension-for-improper-relationship-with-female-staffer-per-reports/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/22/e9a4b635-6097-4a94-82fa-e1cd287ab6fc/thumbnail/1200x675/f54161fe576650f5363e369dfefcee75/udoka-1g.jpg",
+      "publishedAt": "2022-09-22T13:31:00Z",
+      "content": "The Boston Celtics will likely suspend coach Ime Udoka for the entirety of the 2022-23 season, according to ESPN's Adrian Wojnarowski.  Udoka had an \"improper, intimate and consensual relationship\" w… [+1558 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Ban on gas fracking in England lifted in push for energy independence - Reuters UK",
+      "description": "Britain on Thursday formally lifted a moratorium on fracking for shale gas in England that has been in place since 2019, saying strengthening the country's energy supply was an \"absolute priority\".",
+      "url": "https://www.reuters.com/world/uk/britain-lifts-ban-fracking-shale-gas-2022-09-22/",
+      "urlToImage": "https://www.reuters.com/resizer/5bVA6SVqMUDm20emTKbB6Y04yCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2YTSN6KOYJIZ7FU37COSUWQ274.jpg",
+      "publishedAt": "2022-09-22T13:26:00Z",
+      "content": "LONDON, Sept 22 (Reuters) - Britain on Thursday formally lifted a moratorium on fracking for shale gas in England that has been in place since 2019, saying strengthening the country's energy supply w… [+4243 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": "Gregg Rosenthal",
+      "title": "Week 3 NFL game picks: Steelers outduel Browns; Buccaneers top Packers - NFL.com",
+      "description": "Which AFC North team will come out on top tonight when the Browns host the Steelers? Will the shorthanded Buccaneers find a way to win against the Packers? Gregg Rosenthal makes his picks for every Week 3 game.",
+      "url": "https://www.nfl.com/news/week-3-nfl-game-picks-2022-nfl-season",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/hotjkspjksjyim6t3hfb",
+      "publishedAt": "2022-09-22T13:14:00Z",
+      "content": "<ul><li>WHERE: Nissan Stadium (Nashville, Tenn.)</li><li>WHEN: 1 p.m. ET | FOX</li><li>MONEYLINE: Raiders: -130 | Titans: +110</li><li>SPREAD: Titans +2 | O/U: 45.5</li></ul>The cornered animal game … [+460 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "AirPods Pro 2 Review: Earbud Nirvana - CNET",
+      "description": "The AirPods Pro 2 may look very similar on the outside, but they're all-new on the inside. Checkout the Apple AirPods Pro 2 here 👉: https://cnet.co/3LFlRJG*...",
+      "url": "https://www.youtube.com/watch?v=sgNwFcTCjLM",
+      "urlToImage": "https://i.ytimg.com/vi/sgNwFcTCjLM/hqdefault.jpg",
+      "publishedAt": "2022-09-22T13:00:24Z",
+      "content": null
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Gaydos",
+      "title": "Adam Levine cheating scandal leads to memes from NFL teams - Fox News",
+      "description": "Adam Levine's cheating scandal trickled into the NFL world as teams used some of his alleged messages as memes ahead of Week 3 of the 2022 season.",
+      "url": "https://www.foxnews.com/sports/adam-levine-cheating-scandal-leads-memes-nfl-teams",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Adam-Levine.jpg",
+      "publishedAt": "2022-09-22T12:42:52Z",
+      "content": "NFL teams poked fun at the Adam Levine cheating scandal on Wednesday, as the pop star was accused of having an affair with another woman while his wife is pregnant.\r\nThe Arizona Cardinals and Buffalo… [+2066 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Francesca Bacardi",
+      "title": "Khloé Kardashian: Tristan 'always knew' when Maralee Nichols' baby would arrive - Page Six",
+      "description": "“It’s just so close. I wouldn’t want anyone to think I did this after the fact,” the Good American co-founder said in the “Kardashians” Season 2 premiere.",
+      "url": "https://pagesix.com/2022/09/22/khloe-kardashian-tristan-always-knew-about-maralee-nichols-baby/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/09/khloe-kardashian-tristan-thompson-92.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-09-22T12:15:00Z",
+      "content": "Khloé Kardashian said Tristan Thompson “always knew” about Maralee Nichols’ baby but pushed her for another one anyway.\r\nIn the premiere episode of “The Kardashians” Season 2, which was released Thur… [+2081 chars]"
+    },
+    {
+      "source": { "id": null, "name": "College Football News" },
+      "author": "CollegeFootballNews.com",
+      "title": "NFL Expert Picks, Predictions, Lines: Week 3 - College Football News",
+      "description": "NFL Expert Picks and Predictions for Week 3 of the season including Pittsburgh at Cleveland, Buffalo at Miami, and Green Bay at Tampa Bay",
+      "url": "https://collegefootballnews.com/2022/09/nfl-expert-picks-predictions-lines-week-3-2022",
+      "urlToImage": "https://collegefootballnews.com/wp-content/uploads/sites/83/2022/09/USATSI_15478567-2.jpg?w=1000&h=576&crop=1",
+      "publishedAt": "2022-09-22T12:04:04Z",
+      "content": "NFL expert picks, predictions, lines for Week 4 highlighted by Pittsburgh at Cleveland, Buffalo at Miami, and Green Bay at Tampa Bay\r\n* next to the pick means the team will win, but not cover.Click o… [+1135 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Buy and bust: After Platinum Health took control of Noble sites, all hospital workers were fired - CBS News",
+      "description": "Desperate to keep their hospitals open, some rural communities gamble on private equity buyers. Sometimes they lose.",
+      "url": "https://www.cbsnews.com/news/buy-and-bust-after-platinum-health-took-control-of-noble-sites-all-hospital-workers-were-fired/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/22/1598c1bd-9eed-47ca-bf77-7009af0a5611/thumbnail/1200x630/cf26dc39f94a504a54ff84ba53325a58/paulhuemann.jpg",
+      "publishedAt": "2022-09-22T12:03:00Z",
+      "content": "The news, under Noble Health letterhead, arrived at 5:05 p.m. on a Friday, with the subject line: \"Urgent Notice.\" Audrain Community Hospital, Paul Huemann's workplace of 32 years, was letting worker… [+11514 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eurogamer.net" },
+      "author": "Tom Phillips",
+      "title": "Falling GPU prices are thing of \"the past\", Nvidia says - Eurogamer.net",
+      "description": "Earlier this week, Nvidia announced its next series of GeForce RTX cards - and raised eyebrows at how much some of them…",
+      "url": "https://www.eurogamer.net/falling-gpu-prices-are-thing-of-the-past-nvidia-says",
+      "urlToImage": "https://assets.reedpopcdn.com/rtx-4090-where-to-buy.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rtx-4090-where-to-buy.jpg",
+      "publishedAt": "2022-09-22T11:52:18Z",
+      "content": "Earlier this week, Nvidia announced its next series of GeForce RTX cards - and raised eyebrows at how much some of them will cost.\r\nAt the top end, the RTX 4090 will cost an eye-watering $1599. The R… [+1341 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Tesla recalls nearly 1.1 million U.S. vehicles to update window reversing software - Reuters",
+      "description": "Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> is recalling nearly 1.1 million U.S. vehicles because the window automatic reversal system may not react correctly after detecting an obstruction, increasing the risk of inj…",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-nearly-11-million-us-vehicles-update-window-reversing-software-2022-09-22/",
+      "urlToImage": "https://www.reuters.com/resizer/sYiSlRQ5OMVFMues8N7bTnK3SPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TFZW5373QJLFVITYN2LM5QEUVU.jpg",
+      "publishedAt": "2022-09-22T11:35:00Z",
+      "content": "WASHINGTON, Sept 22 (Reuters) - Tesla (TSLA.O) is recalling nearly 1.1 million U.S. vehicles because the window automatic reversal system may not react correctly after detecting an obstruction, incre… [+1521 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Amelia Lucas",
+      "title": "Olive Garden sales fall short, but parent company Darden stands by outlook - CNBC",
+      "description": "Darden Restaurants reported mixed quarterly results but still reiterated its outlook for fiscal 2023.",
+      "url": "https://www.cnbc.com/2022/09/22/darden-restaurants-dri-q1-2023-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103519318-GettyImages-489444404.jpg?v=1663844910&w=1920&h=1080",
+      "publishedAt": "2022-09-22T11:08:30Z",
+      "content": "Darden Restaurants on Thursday reported mixed quarterly results but stood by its outlook for fiscal 2023, predicting inflation will cool in coming quarters.\r\nThe parent company of Olive Garden and Lo… [+2669 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aya Elamroussi, CNN",
+      "title": "Many across Puerto Rico and the Dominican Republic still have no power or running water as Hurricane Fiona churns toward Bermuda - CNN",
+      "description": "More than a million people in Puerto Rico and the Dominican Republic are waking up without power or running water again Thursday as crews work to repair critical utilities disabled by Hurricane Fiona -- now a Category 4 monster heading toward Bermuda.",
+      "url": "https://www.cnn.com/2022/09/22/weather/hurricane-fiona-puerto-rico-dominican-republic-thursday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220922002200-01-hurricane-fiona-puerto-rico-dominican-republic-thursday-super-tease.jpg",
+      "publishedAt": "2022-09-22T10:51:00Z",
+      "content": "(CNN)More than a million people in Puerto Rico and the Dominican Republic are waking up without power or running water again Thursday as crews work to repair critical utilities disabled by Hurricane … [+4636 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine welcomes home 'heroes' after prisoner swap; Russian mobilization sparks anti-war protests - CNBC",
+      "description": "Anti-war protests have erupted in Russia after Putin announced a partial mobilization of the military that will see 300,000 reservists sent to Ukraine.",
+      "url": "https://www.cnbc.com/2022/09/22/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122618-1663831400385-gettyimages-1243417125-AA_22092022_874650.jpeg?v=1663832127&w=1920&h=1080",
+      "publishedAt": "2022-09-22T10:32:00Z",
+      "content": "A top Ukrainian official has described Russia's announcement of a partial mobilization of its military as a \"great tragedy\" for the Russian people.\r\nThe move, announced by President Putin on Wednesda… [+886 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "M. Night Shyamalan's Knock at the Cabin - Official Trailer (2023) Dave Bautista, Rupert Grint - IGN",
+      "description": "Watch the unnerving trailer for M. Night Shyamalan's upcoming thriller, Knock at the Cabin. While vacationing at a remote cabin, a young girl and her parents...",
+      "url": "https://www.youtube.com/watch?v=expvuRHKRF4",
+      "urlToImage": "https://i.ytimg.com/vi/expvuRHKRF4/maxresdefault.jpg",
+      "publishedAt": "2022-09-22T09:59:26Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "The Associated Press",
+      "title": "At least 9 killed as Iran protests spread over woman's death - The Associated Press",
+      "description": "DUBAI, United Arab Emirates (AP) — Clashes between Iranian security forces and protesters angry over the death of a 22-year-old woman in police custody have killed at least nine people since the violence erupted over the weekend, according to a tally Thursday…",
+      "url": "https://apnews.com/5897d601151beb0f01353dd83e405d7d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/398129d600d14b1681bd3a63178e5828/3000.jpeg",
+      "publishedAt": "2022-09-22T09:41:17Z",
+      "content": "DUBAI, United Arab Emirates (AP) Clashes between Iranian security forces and protesters angry over the death of a 22-year-old woman in police custody have killed at least nine people since the violen… [+5722 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Sopheng Cheang",
+      "title": "Khmer Rouge tribunal ends work after 16 years, 3 judgments - The Associated Press - en Español",
+      "description": "PHNOM PENH, Cambodia (AP) — The international court convened in Cambodia to judge the Khmer Rouge for its brutal 1970s rule ended its work Thursday after spending $337 million and 16 years to convict just three men of crimes after the regime caused the deaths…",
+      "url": "https://apnews.com/article/crime-war-crimes-cambodia-khieu-samphan-government-and-politics-84728829003ab97b6ebe40c8d171bd45",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/0e3fd6774c294c43953f653d479b5d4b/3000.jpeg",
+      "publishedAt": "2022-09-22T08:03:45Z",
+      "content": "PHNOM PENH, Cambodia (AP) The international court convened in Cambodia to judge the Khmer Rouge for its brutal 1970s rule ended its work Thursday after spending $337 million and 16 years to convict j… [+7817 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "U.S. appeals court says Trump criminal probe can resume classified records review - Reuters",
+      "description": "The U.S. Justice Department can resume reviewing classified records seized by the FBI from former President Donald Trump's Florida home pending appeal, a federal appellate court ruled on Wednesday, giving a boost to the criminal investigation into whether the…",
+      "url": "https://www.reuters.com/legal/us-court-lets-investigators-resume-review-classified-records-trump-probe-2022-09-21/",
+      "urlToImage": "https://www.reuters.com/resizer/CZsRc2STuBRySPW6ky36xr_K9eo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BAG7D6H7MNOCVPRHSCPSW5FUYY.jpg",
+      "publishedAt": "2022-09-22T07:51:00Z",
+      "content": "WASHINGTON, Sept 21 (Reuters) - The U.S. Justice Department can resume reviewing classified records seized by the FBI from former President Donald Trump's Florida home pending appeal, a federal appel… [+4928 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kevin Liptak",
+      "title": "Biden tells the United Nations that Putin's attempts to 'extinguish' Ukraine should 'make your blood run cold' - CNN",
+      "description": "President Joe Biden on Wednesday declared Russia's invasion of Ukraine a violation of the global order, sharpening his rebukes of President Vladimir Putin as the war entered a tense new moment.",
+      "url": "https://www.cnn.com/2022/09/21/politics/joe-biden-united-nations-general-assembly/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220915115300-04-biden-rose-garden-0915.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-22T05:30:00Z",
+      "content": "President Joe Biden on Wednesday declared Russias invasion of Ukraine a violation of the global order, sharpening his rebukes of President Vladimir Putin as the war entered a tense new moment.\r\nBiden… [+10815 chars]"
+    }
+  ]
+}
