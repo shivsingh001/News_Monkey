@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar";
 import News from "./components/News";
 import NewsItem from "./components/NewsItem";
 
-export default class App extends Component {
+export default class App extends Component { // rendering the components.
   render() {
     return (
       <div>
